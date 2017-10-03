@@ -2,7 +2,7 @@ body {
 	background-color:blue;
 
 }
-.nav {
+.nav li {
 	background-color: silver;
 	border-radius: 5px;
 	border: 2px solid siver;
