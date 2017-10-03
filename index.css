@@ -4,11 +4,11 @@ body {
 }
 .nav li {
 	background:silver;
-	border-radius: 5px;
-	border: 2px solid siver;
-	font-size: 20px;
-	color: blue;
-	display: inline;
+	border-radius:5px;
+	border:2px solid siver;
+	font-size:20px;
+	color:blue;
+	display:inline;
 }
 .main {
 	background-color:silver;
