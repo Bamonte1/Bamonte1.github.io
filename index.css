@@ -3,8 +3,8 @@ body {
 
 }
 .nav li {
-	background-color: silver;
-	border-radius: Spx;
+	background: silver;
+	border-radius: 5px;
 	border: 2px solid siver;
 	font-size: 20px;
 	color: blue;
